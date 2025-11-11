@@ -2,7 +2,7 @@
 
 **Real-time optimal dispatch** for a renewable-powered home — **solar + wind + battery + EV**.
 
-Built live on November 11, 2025 — from scratch, in one night.
+Built live on November 11, 2025 — from scratch.
 
 ## Features
 - 24-hour simulation (hourly resolution)
